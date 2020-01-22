@@ -1,3 +1,4 @@
+<?php require_once('Util/Database.php'); ?>
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
